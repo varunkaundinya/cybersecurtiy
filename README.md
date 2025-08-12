@@ -23,8 +23,7 @@
 ---
 
 ## 🏆 Certifications
-- Google Cybersecurity (in progress)
-- Cisco Networking (Skills for All)
+- Cisco Certified Support Technician CyberSecurity ✅
 - TryHackMe Pre-Security Path ✅
 
 ---
